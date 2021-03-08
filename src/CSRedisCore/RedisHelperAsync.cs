@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 #else
 partial class RedisHelper<TMark>
 {
-
     #region 缓存壳
     /// <summary>
     /// 缓存壳
